@@ -4,8 +4,6 @@ using System.IO;
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-
-
 String currentFolder = "D:\\TEMP\\FTP";
 var fileName = "test.file.txt";
 var newExtention = "tmp";
