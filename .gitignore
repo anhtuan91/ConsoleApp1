@@ -1,8 +1,13 @@
 # Ignore files
-ConsoleApp1/obj//Debug/net6.0/
+ConsoleApp1/obj/Debug/net6.0/
 ConsoleApp1/bin/Debug/net6.0/
 ClassLibrary1/obj/Debug/net6.0/
 ClassLibrary1/bin/Debug/net6.0/
 *.zip
 log/*.log
 log/*.log.[0-9]
+*.dll
+*.exe
+*.pdb
+*.cache
+*.suo
