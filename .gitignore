@@ -3,10 +3,8 @@ ConsoleApp1/obj/Debug/net6.0/
 ConsoleApp1/obj/
 ConsoleApp1/bin/Debug/net6.0/
 ConsoleApp1/bin/
-ClassLibrary1/obj/Debug/net6.0/
-ClassLibrary1/obj/
-ClassLibrary1/bin/Debug/net6.0/
-ClassLibrary1/bin/
+CSharpClass/obj/
+CSharpClass/bin/
 *.zip
 log/*.log
 log/*.log.[0-9]

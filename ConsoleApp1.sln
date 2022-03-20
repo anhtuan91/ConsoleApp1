@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "VB_Class", "ClassLibrary1\VB_Class.vbproj", "{2B51DCF9-2C1E-4DDD-9A03-E2036BD7D07F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpClass", "CSharpClass\CSharpClass.csproj", "{7FAA529A-D10E-4CED-BE60-C039E907D7D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2B51DCF9-2C1E-4DDD-9A03-E2036BD7D07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B51DCF9-2C1E-4DDD-9A03-E2036BD7D07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B51DCF9-2C1E-4DDD-9A03-E2036BD7D07F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FAA529A-D10E-4CED-BE60-C039E907D7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAA529A-D10E-4CED-BE60-C039E907D7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAA529A-D10E-4CED-BE60-C039E907D7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAA529A-D10E-4CED-BE60-C039E907D7D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
