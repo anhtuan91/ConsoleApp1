@@ -1,0 +1,8 @@
+# Ignore files
+ConsoleApp1/obj/
+ConsoleApp1/bin/
+ClassLibrary1/obj/
+ClassLibrary1/bin/
+*.zip
+log/*.log
+log/*.log.[0-9]
