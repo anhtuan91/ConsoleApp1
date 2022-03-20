@@ -5,6 +5,8 @@ ConsoleApp1/bin/Debug/net6.0/
 ConsoleApp1/bin/
 CSharpClass/obj/
 CSharpClass/bin/
+ClassLibrary1/obj/
+ClassLibrary1/bin/
 *.zip
 log/*.log
 log/*.log.[0-9]
