@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GIT_HUB\\ConsoleApp1\\ClassLibrary1\\ClassLibrary1.vbproj",
-      "projectName": "ClassLibrary1",
-      "projectPath": "D:\\GIT_HUB\\ConsoleApp1\\ClassLibrary1\\ClassLibrary1.vbproj",
+      "projectUniqueName": "D:\\GIT_HUB\\ConsoleApp1\\ClassLibrary1\\VB_Class.vbproj",
+      "projectName": "VB_Class",
+      "projectPath": "D:\\GIT_HUB\\ConsoleApp1\\ClassLibrary1\\VB_Class.vbproj",
       "packagesPath": "C:\\Users\\anhtu\\.nuget\\packages\\",
       "outputPath": "D:\\GIT_HUB\\ConsoleApp1\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",

@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.32002.185
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{8FD7C655-0E40-442E-8521-FBE5988614B3}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.vbproj", "{2B51DCF9-2C1E-4DDD-9A03-E2036BD7D07F}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "VB_Class", "ClassLibrary1\VB_Class.vbproj", "{2B51DCF9-2C1E-4DDD-9A03-E2036BD7D07F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
