@@ -14,5 +14,6 @@ if(f.Exists)
     f.MoveTo(currentFolder + "\\" + newFileName);
 }
 
-
-Console.ReadLine();
+var s = Console.ReadLine();
+Console.WriteLine($"User input = [{s}]. Hit enter to continue");
+Console.ReadKey();
