@@ -17,8 +17,4 @@ if(f.Exists)
 var s = Console.ReadLine();
 Console.WriteLine($"User input = [{s}]. Hit enter to continue");
 Console.ReadKey();
-<<<<<<< HEAD
-//modify main test merge
-=======
-//test merge
->>>>>>> test_merge
+// Test pull request branch
